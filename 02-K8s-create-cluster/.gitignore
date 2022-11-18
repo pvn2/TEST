@@ -1,5 +1,0 @@
-.terraform/
-terraform*
-.terraform*
-minikube/.terraform*
-kubeadm-ec2/.terraform*
